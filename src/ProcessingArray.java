@@ -89,5 +89,7 @@ public class ProcessingArray {
 
         // find the largest element from the array
 
+        // Print the 5th odd element every time, but count all the even elements and print
+
     }
 }

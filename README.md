@@ -34,6 +34,7 @@ This repository contains a large integer array and the following questions to be
 - Find how many 3-digit elements are there in the given array.
 - Find the smallest element from the array.
 - Find the largest element from the array.
+- Print the 5th odd element every time, but count all the even elements and print
 
 ## Solving the Questions
 
